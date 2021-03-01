@@ -69,7 +69,7 @@ more flexible.
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marinaferreiradeveloper"></a>
+  <a href="https://www.linkedin.com/in/marinaferreiradeveloper">
     <img alt="230077B5" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"/>
   </a>
   <a href="https://medium.com/@marina.ferreira.developer">
