@@ -38,27 +38,6 @@ more flexible.
 </p>
 
 <br />
-
-<div align="center">
-  <table border="0" align="center" margin="0">
-    <tr>
-      <td><div style="font-size: 28px; margin-bottom: 0;">:books: Latest Reads</div></td>
-      <td><div style="font-size: 28px; margin-bottom: 0;">:eyeglasses: Currently Reading</div></td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="Learn React Hooks - Daniel Bugl" src="https://images-na.ssl-images-amazon.com/images/I/512zOgsWmdL._SX404_BO1,204,203,200_.jpg" height="150" style="margin-right: 5px"/>
-        <img alt="99 Bottles of OOP - Sandi Metz" src="https://m.media-amazon.com/images/I/51lFbn3LPCL._SX260_.jpg" height="150" style="margin-right: 5px"/>
-        <img alt="Practical Object-Oriented Design in Ruby: An Agile Primer - Sandi Metz" src="https://user-images.githubusercontent.com/4058722/109438404-9ef33c80-7a08-11eb-93b3-a2e827d170b8.jpg" height="150"/>
-      </td>
-      <td align="center">
-        <img alt="Refactoring Ruby Edition - Jay Fields, Martin Fowler and others" src="https://images-na.ssl-images-amazon.com/images/I/41uHaBu1RpL._SX380_BO1,204,203,200_.jpg" height="150" style="margin-right: 5px"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
 <br />
 
 <p align="center">
@@ -66,6 +45,7 @@ more flexible.
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-ferreira&layout=compact&theme=dark" alt="Top Languages" /> -->
 </p>
 
+<br />
 <br />
 
 <p align="center">
